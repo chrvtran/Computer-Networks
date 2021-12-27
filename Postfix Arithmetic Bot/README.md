@@ -1,4 +1,4 @@
-# Arithmetic Bot
+# Postfix Arithmetic Bot
 Transport Layer Protocols: TCP, unreliable and reliable UDP
 
 Notes: '127.0.0.1' is localhost, acceptable port numbers 1024-65535 inclusive
