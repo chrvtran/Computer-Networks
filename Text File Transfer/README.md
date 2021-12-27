@@ -6,7 +6,7 @@ Notes: transfers up to MAXTRANSFERRED bytes in segments of MAXREAD bytes
 - socket Library used for creating and connecting sockets
 - sender sends proper sequence number and MAXREAD bytes parsed from a textfile
 - there is a parameter set chance of loss, corruption, and max delay
-- receiver checks checksum and returns proper ACK accounting for any issues
+- receiver checks checksum and returns proper ACK accounting for any issues, stores bytes accumulatively
 
 Command Lines
 
