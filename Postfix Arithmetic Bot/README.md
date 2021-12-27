@@ -10,5 +10,5 @@ Notes: '127.0.0.1' is localhost, acceptable port numbers 1024-65535 inclusive
 
 Command Lines
 - python <reliable_server_filename>
-- python <unreliable_server_filename> <drop_prob=[0.0, 1.0]> <seed>
+- python <unreliable_server_filename> <drop_prob=[0.0, 1.0]> <seed#>
 - python <any_client_filename> <txtfile>
